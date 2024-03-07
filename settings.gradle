@@ -1,0 +1,10 @@
+rootProject.name = 'VehicleRentingApp'
+include 'AuthService'
+include 'UserService'
+include 'ReviewService'
+include 'ReservationService'
+include 'InvoiceService'
+include 'RentalService'
+include 'PaymentService'
+include 'VehicleService'
+
